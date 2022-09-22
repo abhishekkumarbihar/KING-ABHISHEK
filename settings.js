@@ -85,7 +85,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = [DIL SE WELCOME HE APKA DOST]
+global.wlcm = []
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
@@ -95,7 +95,7 @@ global.sessionName = 'king bihar'
 global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
-global.mess = {hii dosto
+global.mess = {
     success: '✉️✏️ _Done_',
     admin: '✉️✏️ _This Feature Is Only For Admin!_',
     botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
