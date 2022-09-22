@@ -1,6 +1,6 @@
-//CYBER-X  KING ABHISHEK ◎◎◎ https://github.com/abhishekkumarbihar\\
-//══════════════THANKS FOR CHEEMS BOT KING (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
-// EXAM KING 😓😓😓 GOOD LUCK ALL\\
+//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
+//══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
+// EXAM KING BOT BIHAR 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -39,28 +39,28 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['917858069179'] //ur owner number
 global.ownername = "KING ABHISHEK" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: abhishekkumarbihar" //ur github or insta name
-global.location = "patna, bihar, abhishek" //ur location
+global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.location = "KING ABHISHEK , BIHAR, INDIA" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['917858069179']
 global.ownertag = '917858069179' //ur tag number
 global.botnumber = '917858069179' //Add your Bot Number For Log
 global.botname = 'KING-ABHISHEK' //ur bot name
-global.ig = "https://https://youtu.be/wOFL_KF6t2k" //your theme url which will be displayed on whatsapp
-global.myweb = "https://https://youtu.be/wOFL_KF6t2k" //ur website to be displayed
-global.sc = 'https://github.com/abhishekkumarbihar' //script link
-global.linkz = 'https://youtu.be/wOFL_KF6t2k'
+global.ig = "https://youtube.com/channel/UCh4s8NNUuqCkLQ6e2PsHkwQ" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtube.com/channel/UCh4s8NNUuqCkLQ6e2PsHkwQ" //ur website to be displayed
+global.sc = 'https://github.com/darkalphaxteam' //script link
+global.linkz = 'https://youtube.com/channel/UCh4s8NNUuqCkLQ6e2PsHkwQ'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "king-abhishek" //ur sticker watermark packname
-global.author = "king bihar" //ur sticker watermark author
-global.footer = "® king-Abhishek"
+global.packname = "KING-BOT" //ur sticker watermark packname
+global.author = "DARK ALPHA" //ur sticker watermark author
+global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "king abhishek patna bihar...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "HII DOSTO...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -85,27 +85,27 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [आपका दिल से वेलकम हे मेरे ग्रुप मे]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
 
 //OTHERS
-global.sessionName = 'king bihar'
+global.sessionName = 'session'
 global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
+    success: '✉️✏️ Done',
+    admin: '✉️✏️ This Feature Is Only For Admin!',
+    botAdmin: '✉️✏️ Bot Must Be Admin First!',
+    owner: '✉️✏️ This Feature Is Only For Owner!',
+    group: '✉️✏️ Feature Used Only For Groups!',
+    private: '✉️✏️ Features Used Only For Private Chat!',
+    bot: '✉️✏️ This Feature Is Only For Bot',
+    wait: '✉️✏️ Processing Please Wait...',
+    linkm: '📧✏️ Where is the link?',
+    error: '✉️🤕 Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
